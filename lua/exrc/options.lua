@@ -1,6 +1,8 @@
 local default_options = {
   _initialized = false,
   files = {
+    ".nvim/init.lua",
+    ".nvim/settings.lua",
     ".nvimrc.lua",
     ".nvimrc",
     ".exrc.lua",
